@@ -5,3 +5,6 @@ Connecting SENet from the backbone of deeplab v3+ gives a kind of attention effe
 
 ![image](https://user-images.githubusercontent.com/105573554/236992359-09903c49-bc75-466a-b769-566e6251efc4.png)
 
+![image](https://user-images.githubusercontent.com/105573554/236992460-14229553-de52-4f79-9533-ec901881383b.png)
+
+
